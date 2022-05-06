@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\bin\Debug\Aula18.exe.config
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\bin\Debug\Aula18.exe
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\bin\Debug\Aula18.pdb
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\obj\Debug\Aula18.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\obj\Debug\Aula18.exe
+C:\Users\User\Documents\C#-prog\Aula18\Aula18\obj\Debug\Aula18.pdb
