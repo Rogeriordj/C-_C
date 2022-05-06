@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Classe3\Classe3\bin\Debug\Classe3.exe.config
+C:\Users\User\source\repos\Classe3\Classe3\bin\Debug\Classe3.exe
+C:\Users\User\source\repos\Classe3\Classe3\bin\Debug\Classe3.pdb
+C:\Users\User\source\repos\Classe3\Classe3\obj\Debug\Classe3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classe3\Classe3\obj\Debug\Classe3.exe
+C:\Users\User\source\repos\Classe3\Classe3\obj\Debug\Classe3.pdb

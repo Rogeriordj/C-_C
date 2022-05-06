@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Funcoes1\Funcoes1\bin\Debug\Funcoes1.exe.config
+C:\Users\User\source\repos\Funcoes1\Funcoes1\bin\Debug\Funcoes1.exe
+C:\Users\User\source\repos\Funcoes1\Funcoes1\bin\Debug\Funcoes1.pdb
+C:\Users\User\source\repos\Funcoes1\Funcoes1\obj\Debug\Funcoes1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Funcoes1\Funcoes1\obj\Debug\Funcoes1.exe
+C:\Users\User\source\repos\Funcoes1\Funcoes1\obj\Debug\Funcoes1.pdb

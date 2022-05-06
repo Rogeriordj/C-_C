@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Aula27\Aula27\bin\Debug\Aula27.exe.config
+C:\Users\User\source\repos\Aula27\Aula27\bin\Debug\Aula27.exe
+C:\Users\User\source\repos\Aula27\Aula27\bin\Debug\Aula27.pdb
+C:\Users\User\source\repos\Aula27\Aula27\obj\Debug\Aula27.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula27\Aula27\obj\Debug\Aula27.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula27\Aula27\obj\Debug\Aula27.exe
+C:\Users\User\source\repos\Aula27\Aula27\obj\Debug\Aula27.pdb

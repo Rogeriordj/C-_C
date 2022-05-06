@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\For1\For1\bin\Debug\For1.exe.config
+C:\Users\User\source\repos\For1\For1\bin\Debug\For1.exe
+C:\Users\User\source\repos\For1\For1\bin\Debug\For1.pdb
+C:\Users\User\source\repos\For1\For1\obj\Debug\For1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For1\For1\obj\Debug\For1.exe
+C:\Users\User\source\repos\For1\For1\obj\Debug\For1.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\While1\While1\bin\Debug\While1.exe.config
+C:\Users\User\source\repos\While1\While1\bin\Debug\While1.exe
+C:\Users\User\source\repos\While1\While1\bin\Debug\While1.pdb
+C:\Users\User\source\repos\While1\While1\obj\Debug\While1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\While1\While1\obj\Debug\While1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\While1\While1\obj\Debug\While1.exe
+C:\Users\User\source\repos\While1\While1\obj\Debug\While1.pdb

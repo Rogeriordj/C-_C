@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Problema1\Problema1\bin\Debug\Problema1.exe.config
+C:\Users\User\source\repos\Problema1\Problema1\bin\Debug\Problema1.exe
+C:\Users\User\source\repos\Problema1\Problema1\bin\Debug\Problema1.pdb
+C:\Users\User\source\repos\Problema1\Problema1\obj\Debug\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Problema1\Problema1\obj\Debug\Problema1.exe
+C:\Users\User\source\repos\Problema1\Problema1\obj\Debug\Problema1.pdb
